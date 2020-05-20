@@ -1,0 +1,12 @@
+{
+  "name": "webresume",
+  "version": "1.0.0",
+  "description": "Web Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "author": "Rajat Namdev",
+  "license": "ISC"
+}
